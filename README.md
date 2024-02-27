@@ -1,5 +1,7 @@
 # Hi.
-I program things
+I program things.  
+I also do things in Blender.  
+Can do HTML, CSS, C# and Python.
 
 <div id="badges">
   <a href="https://www.youtube.com/@imschokolade">
