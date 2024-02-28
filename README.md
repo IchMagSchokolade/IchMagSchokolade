@@ -1,7 +1,8 @@
 # Hi.
 I program things.  
 I also do things in Blender.  
-Can do HTML, CSS, C# and Python.
+Can do HTML, CSS, C# and Python.  
+Blender renders on Youtube
 
 <div id="badges">
   <a href="https://www.youtube.com/@imschokolade">
